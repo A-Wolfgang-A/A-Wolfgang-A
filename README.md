@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+Connect with me :
+![img_contact](./)
 <!--
 **A-Wolfgang-A/A-Wolfgang-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
