@@ -21,5 +21,5 @@
 
 ### ⭐ GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Wolfgang-A&show_icons=true&hide_border=false&title_color=006AFF&icon_color=0579C3&bg_color=ffffff00&text_color=417E87&border_color=none)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Wolfgang-A&show_icons=true&hide_border=false&title_color=006AFF&icon_color=0579C3&bg_color=ffffff00&text_color=417E87&border_color=none)](https://github.com/A-Wolfgang-A)
 
