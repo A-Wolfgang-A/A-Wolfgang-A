@@ -29,8 +29,7 @@
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=A-Wolfgang-A&theme=blueberry&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://github-readme-stats.vercel.app/ap)
 <br/> -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=A-Wolfgang-A&theme=github-dark-blue&hide_border=true&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly&background=0D1117&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=1F6FEB)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=A-Wolfgang-A&theme=github-dark-blue&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly&background=0D1117&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=1F6FEB)](https://git.io/streak-stats)
 
 
 
