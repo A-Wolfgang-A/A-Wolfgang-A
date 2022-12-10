@@ -22,7 +22,7 @@
 
 ### ⭐ GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Wolfgang-A&show_icons=true&hide_border=false&title_color=006AFF&icon_color=0579C3&bg_color=ffffff00&text_color=417E87&border_color=none)<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Wolfgang-A&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)<br/>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=A-Wolfgang-A&theme=blueberry&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly)
 <br/>
