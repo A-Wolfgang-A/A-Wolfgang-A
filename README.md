@@ -22,16 +22,11 @@
 
 ### ⭐ GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Wolfgang-A&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Wolfgang-A&theme=github_dark&show_icons=true)<br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Wolfgang-A&theme=github_dark&show_icons=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=A-Wolfgang-A&theme=github-dark-blue&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly&background=0D1117&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=1F6FEB)]<br/>
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=A-Wolfgang-A&theme=blueberry&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://github-readme-stats.vercel.app/ap)
-<br/> -->
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=A-Wolfgang-A&theme=github-dark-blue&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly&background=0D1117&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=1F6FEB)](https://git.io/streak-stats)
-
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Wolfgang-A&theme=theme=github_dark&show_icons=true)<br/>
 
 
 [![](https://visitcount.itsvg.in/api?id=A-Wolfgang-A&icon=0&color=0)](https://visitcount.itsvg.in)
