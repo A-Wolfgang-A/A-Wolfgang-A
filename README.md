@@ -22,9 +22,13 @@
 
 ### ⭐ GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Wolfgang-A&show_icons=true&hide_border=false&title_color=006AFF&icon_color=0579C3&bg_color=ffffff00&text_color=417E87&border_color=none)](https://github.com/A-Wolfgang-A)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Wolfgang-A&show_icons=true&hide_border=false&title_color=006AFF&icon_color=0579C3&bg_color=ffffff00&text_color=417E87&border_color=none)
+![](https://github-readme-streak-stats.herokuapp.com/?user=A-Wolfgang&theme=holi-theme&hide_border=true)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=A-Wolfgang&theme=radical&hide_border=false)<br/>
+
+
+
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Wolfgang&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=A-Wolfgang-A&icon=0&color=0)](https://visitcount.itsvg.in)
