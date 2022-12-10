@@ -33,7 +33,7 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Wolfgang&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=A-Wolfgang-A&theme=github-dark-blue&hide_border=true&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly&background=0D1117&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=1F6FEB)](https://git.io/streak-stats)
 
 [![](https://visitcount.itsvg.in/api?id=A-Wolfgang-A&icon=0&color=0)](https://visitcount.itsvg.in)
 
